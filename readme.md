@@ -1,6 +1,6 @@
-# Projeto EDP Task 1
+# Projeto EDP Task 2
 
-Este projeto demonstra a implementação de uma lista encadeada simples em TypeScript.
+Este projeto demonstra a implementação de uma pilha e de uma fila simples em TypeScript.
 
 ## Pré-requisitos
 
